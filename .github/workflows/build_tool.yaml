@@ -18,7 +18,8 @@ env:
   REGISTRY: ghcr.io
   # github.repository as <account>/<repo>
   #IMAGE_NAME: ${{ github.repository }}
-  IMAGE_NAME: "shclub/build-tool"
+  #IMAGE_NAME: "shclub/build-tool"
+  IMAGE_NAME: "dragorse/build-tool"
   #IMAGE_REGISTRY: ghcr.io/${{ github.repository_owner }}
 
 
